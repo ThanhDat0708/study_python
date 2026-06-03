@@ -11,8 +11,12 @@ def check_snt(n: int ) -> bool:
         
     return True 
 #end function
-n = int(input("Nhap vao 1 so: "))
-print(f"so nguyen to tu 1 den {n} la:")
-for i in range(1, n + 1):
-    if check_snt(i) == True:
-        print(f"{i} ")
+def main():
+    n = int(input("Nhap vao 1 so: "))
+    print(f"so nguyen to tu 1 den {n} la:")
+    for i in range(1, n + 1):
+        if check_snt(i) == True:
+            print(f"{i} ", end="")
+
+if __name__ == "__main__":
+    main()
