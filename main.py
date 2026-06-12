@@ -20,7 +20,11 @@ while True:
     response = client.responses.create(
         model= 'gpt-5.4-mini',
         instructions= 'Chỉ trả kời câu hỏi liên quan toán học và lập trình ',
-        input=chat_histories
+        input=chat_histories,
+        # trả lời ổn định logic và ít sáng tạo
+        temperature=0.1,
+        # giới hạn độ trả lời AI
+        max_output_tokens=500
 )
     data = response.output_text
     print(f"Ai tra loi:",data)
