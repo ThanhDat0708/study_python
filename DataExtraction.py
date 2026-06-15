@@ -2,6 +2,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 from pydantic import BaseModel
 
+
 load_dotenv()
 
 client = OpenAI()
