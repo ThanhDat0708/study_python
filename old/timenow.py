@@ -58,5 +58,3 @@ while True:
         'content': ai_reply
     })
 
-def get_current_datatime():
-   return datetime.now().strftime("%d/%m/%Y %H:%M")
