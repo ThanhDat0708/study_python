@@ -36,7 +36,7 @@ while True:
         input=chat_histories,
         temperature=0.1,
         max_output_tokens=500,
-        tools=tools
+        tools=tool
     )
 
     # kiểm tra gọi hàm nếu có
