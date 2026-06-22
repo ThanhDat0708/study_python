@@ -1,0 +1,4 @@
+$env:COPILOT_PROVIDER_BASE_URL="https://api.xah.io/v1"
+$env:COPILOT_PROVIDER_TYPE="openai"
+$env:COPILOT_PROVIDER_API_KEY="sk-6e753ac7e7de9b653817349b8117ed2dca4d8641ff4220fd5b4cbcb3b6311937"
+$env:COPILOT_MODEL="deepseek-v4-flash"
