@@ -1,5 +1,5 @@
 import gradio as gr
-import main_chat
+import old_chat.main_chat as main_chat
 gr.ChatInterface(
     fn=main_chat.chat_fn,
     title="ứng dụng với gradio",
