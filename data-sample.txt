@@ -1,0 +1,91 @@
+================================================================================
+CÔNG TY CỔ PHẦN TẬP ĐOÀN BẤT ĐỘNG SẢN ABC
+Số văn bản: 102/2026/QĐ-HDQT
+Bản quyền tài liệu: Phòng Pháp chế & Khối Công nghệ Thông tin - ABC Group
+Mục đích sử dụng: Tài liệu đào tạo nội bộ và Quy chuẩn vận hành hệ thống CRM
+================================================================================
+
+[MỤC: GIỚI THIỆU CHUNG VÀ GIÁ TRỊ CỐT LÕI]
+ID_CHƯƠNG: CHUONG_01
+Tên chương: CHƯƠNG I: QUY ĐỊNH CHUNG
+
+Điều 1: Phạm vi điều chỉnh và Đối tượng áp dụng
+- Văn bản này quy định chi tiết các quy tắc ứng xử, kỷ luật lao động, quy trình nghiệp vụ kinh doanh bất động sản, chính sách bảo mật quản lý thông tin khách hàng và cơ chế phân chia hoa hồng áp dụng thống nhất trong toàn bộ Công ty Cổ phần Tập đoàn Bất động sản ABC (gọi tắt là "Công ty ABC").
+- Đối tượng áp dụng bắt buộc bao gồm: Toàn thể cán bộ nhân viên, cấp quản lý, chuyên viên tư vấn bất động sản (môi giới), cộng tác viên và các phòng ban bổ trợ trực thuộc khối vận hành kinh doanh của Công ty ABC trên toàn quốc.
+
+Điều 2: Giá trị cốt lõi và Đạo đức nghề nghiệp công ty ABC
+- Công ty Bất động sản ABC hoạt động dựa trên ba trụ cột cốt lõi làm kim chỉ nam: Minh bạch – Uy tín – Chuyên nghiệp.
+- Quy định đạo đức: Mỗi nhân sự khi đại diện cho thương hiệu Tập đoàn ABC giao dịch với đối tác và khách hàng bắt buộc phải tuân thủ nghiêm ngặt tính trung thực về pháp lý dự án (bao gồm quy hoạch 1/500, giấy phép xây dựng, sổ hồng mẫu). Nghiêm cấm mọi hành vi tự ý thổi giá, cung cấp thông tin sai lệch nhằm mục đích trục lợi cá nhân hoặc gây ảnh hưởng nghiêm trọng đến uy tín của tập đoàn ABC.
+
+--------------------------------------------------------------------------------
+
+[MỤC: THỜI GIAN LÀM VIỆC VÀ TÁC PHONG SỞ TẠI VĂN PHÒNG]
+ID_CHƯƠNG: CHUONG_02
+Tên chương: CHƯƠNG I: THỜI GIAN LÀM VIỆC VÀ TÁC PHONG CÔNG SỞ
+
+Điều 3: Quy định về thời giờ làm việc khối kinh doanh
+- Khối văn phòng và khối kinh doanh bất động sản áp dụng thời gian làm việc tiêu chuẩn từ Thứ Hai đến hết Sáng Thứ Bảy hàng tuần.
+- Khung giờ làm việc chi tiết:
+  + Buổi sáng: Từ 08:00 đến 12:00.
+  + Nghỉ trưa: Từ 12:00 đến 13:30.
+  + Buổi chiều: Từ 13:30 đến 17:30.
+- Quy định đi thị trường: Do đặc thù ngành bất động sản, Chuyên viên kinh doanh (CVKD) thường xuyên phải dẫn khách đi xem thực tế dự án hoặc tham gia các sự kiện mở bán tập trung vào cuối tuần. Các trường hợp làm việc ngoài giờ hoặc đi thị trường thực tế phải được đăng ký cập nhật chi tiết trên hệ thống quản trị nội bộ (CRM) và có sự phê duyệt chính thức từ Trưởng phòng kinh doanh trực tiếp.
+
+Điều 4: Đồng phục và Diện mạo chuyên nghiệp của nhân viên ABC
+- Khi làm việc tại văn phòng công ty ABC, gặp gỡ khách hàng hoặc tham gia trực ban tại các sàn giao dịch, nhà mẫu, nhân viên phải tuân thủ quy chuẩn trang phục như sau:
+  + Đối với Nam: Áo sơ mi trắng dài tay thêu logo công ty ABC ở ngực trái, quần tây tối màu (đen hoặc xanh đen), thắt lưng da, giày tây lịch sự, đeo thẻ nhân viên trong suốt quá trình làm việc. Khi tiếp khách VIP bắt buộc phải mặc áo vest đồng phục của tập đoàn ABC.
+  + Đối với Nữ: Áo sơ mi trắng hoặc áo kiểu công sở trang nhã, chân váy công sở (độ dài tối thiểu ngang gối) hoặc quần tây, đi giày cao gót bít mũi, trang điểm nhẹ nhàng tự nhiên, tóc tai gọn gàng.
+
+--------------------------------------------------------------------------------
+
+[MỤC: BẢO MẬT DỮ LIỆU VÀ QUY TRÌNH HỆ THỐNG CRM]
+ID_CHƯƠNG: CHUONG_03
+Tên chương: CHƯƠNG III: QUY TRÌNH NGHIỆP VỤ VÀ BẢO MẬT THÔNG TIN CÔNG NGHỆ
+
+Điều 5: Quy trình tiếp nhận và Quản lý dữ liệu khách hàng (Dữ liệu CRM)
+- Mọi thông tin khách hàng phát sinh từ các nguồn (Marketing công ty ABC phân bổ, data tự khai thác, khách vãng lai tại dự án) bắt buộc phải được cập nhật đầy đủ lên hệ thống phần mềm CRM của ABC Group trong vòng tối đa 02 giờ kể từ khi tiếp nhận thông tin.
+- Nguyên tắc ghi nhận: Hệ thống CRM sẽ ghi nhận quyền ưu tiên chăm sóc khách hàng dựa trên mốc thời gian cập nhật sớm nhất. Nghiêm cấm mọi hành vi tranh giành khách, can thiệp thô bạo vào tệp dữ liệu của đồng nghiệp hoặc cố tình che giấu thông tin khách hàng lớn nhằm mục đích xử lý giao dịch cá nhân bên ngoài hệ thống kiểm soát của công ty ABC.
+- Quy định bảo mật thông tin tối cao: Dữ liệu khách hàng là tài sản trí tuệ tối cao của Công ty ABC. Bất kỳ cá nhân nào có hành vi sao chép, chuyển nhượng, bán thông tin hoặc tiết lộ dữ liệu khách hàng cho các đơn vị đối thủ cạnh tranh sẽ ngay lập tức bị sa thải tước quyền lợi, đồng thời công ty ABC sẽ chuyển hồ sơ sang cơ quan công an để truy cứu trách nhiệm hình sự theo quy định pháp luật hiện hành.
+
+Điều 6: Quy trình thực hiện giao dịch Bất động sản mẫu tại ABC
+- Một quy trình giao dịch chuẩn từ lúc tiếp cận đến khi tất toán hợp đồng tại ABC Group bao gồm 4 bước bắt buộc:
+  Bước 1: Tư vấn tìm hiểu nhu cầu. Giới thiệu chính xác về vị trí, tiện ích, pháp lý (Sổ hồng, quy hoạch 1/500, giấy phép xây dựng) và bảng giá chính thức từ chủ đầu tư.
+  Bước 2: Giữ chỗ và Đặt cọc. Hướng dẫn khách hàng điền chính xác thông tin vào Phiếu đăng ký nguyện vọng hoặc Phiếu đặt cọc theo đúng biểu mẫu pháp lý do phòng Thủ tục hành chính cung cấp. Thu tiền đặt cọc và bàn giao biên nhận có dấu mộc đỏ công ty ABC trong ngày.
+  Bước 3: Ký kết hợp đồng. Phối hợp chặt chẽ với phòng Pháp chế và Kế toán để hỗ trợ khách hàng ký kết Hợp đồng mua bán (HĐMB) hoặc Hợp đồng đặt cọc đúng kỳ hạn quy định.
+  Bước 4: Chăm sóc hậu mãi. Duy trì liên lạc, cập nhật tiến độ xây dựng dự án định kỳ cho khách hàng cho đến khi bàn giao nhà và bàn giao chủ quyền (sổ hồng).
+
+--------------------------------------------------------------------------------
+
+[MỤC: CHÍNH SÁCH HOA HỒNG VÀ KỶ LUẬT LAO ĐỘNG]
+ID_CHƯƠNG: CHUONG_04
+Tên chương: CHƯƠNG IV: CHÍNH SÁCH HOA HỒNG, PHÂN CHIA LỢI NHUẬN VÀ THƯỞNG PHẠT
+
+Điều 7: Cơ cấu tính Hoa hồng giao dịch (Commission) tại Công ty ABC
+- Mức hoa hồng chi trả cho Khối Kinh doanh được tính toán dựa trên tỷ lệ phần trăm doanh thu thuần thực thu về tài khoản của Công ty ABC sau khi đã trừ đi các khoản thuế, phí môi giới ngoài (nếu có).
+- Tỷ lệ chi trả cụ thể đối với các dòng sản phẩm chiến lược của công ty ABC:
+  + Dòng sản phẩm Đất nền dự án / Nhà phố liên kế: Hoa hồng từ 2.5% đến 3.5% giá trị hợp đồng dành cho Chuyên viên kinh doanh (CVKD). Thưởng quản lý cho Trưởng phòng kinh doanh (TPKD) là 0.5% Doanh số tổng của phòng. Đối soát chi trả vào ngày 15 hàng tháng sau khi khách ký HĐMB.
+  + Dòng sản phẩm Căn hộ cao cấp (Chung cư): Hoa hồng từ 2.0% đến 3.0% giá trị hợp đồng dành cho Chuyên viên kinh doanh (CVKD). Thưởng quản lý cho Trưởng phòng kinh doanh (TPKD) là 0.4% Doanh số tổng của phòng. Chi trả chia làm 2 đợt theo tiến độ thanh toán thực tế của khách hàng.
+  + Dòng sản phẩm Bất động sản nghỉ dưỡng / Biệt thự biển: Hoa hồng từ 4.0% đến 5.5% giá trị hợp đồng dành cho Chuyên viên kinh doanh (CVKD). Thưởng quản lý cho Trưởng phòng kinh doanh (TPKD) là 0.8% Doanh số tổng của phòng. Chi trả trong vòng 10 ngày làm việc kể từ khi nhận phí từ Chủ đầu tư (CĐT).
+
+Điều 8: Quy định xử phạt vi phạm kỷ luật kinh doanh bất động sản
+- Để đảm bảo một môi trường cạnh tranh lành mạnh, công bằng và thượng tôn pháp luật, Công ty ABC áp dụng các hình thức chế tài nghiêm khắc đối với các sai phạm sau:
+  + Hành vi cắt máu (Chia sẻ hoa hồng cho khách hàng để giành khách): Phạt tiền từ 20.000.000 VNĐ đến 50.000.000 VNĐ cho lần đầu vi phạm; đình chỉ công tác và tịch thu toàn bộ hoa hồng của giao dịch đó đối với lần tái phạm thứ hai.
+  + Tự ý thu tiền của khách trái quy định: Nhân viên kinh doanh tuyệt đối không được nhận tiền mặt hoặc nhận chuyển khoản tài khoản cá nhân từ khách hàng đối với các khoản tiền đặt cọc/thanh toán dự án. Mọi dòng tiền phải đi trực tiếp vào tài khoản ngân hàng của Công ty ABC. Vi phạm điều này sẽ bị sa thải ngay lập tức và chuyển cơ quan điều tra nếu có dấu hiệu lừa đảo chiếm đoạt tài sản.
+  + Hành vi nói xấu đối thủ hoặc cung cấp thông tin sai lệch về dự án lân cận: Cảnh cáo bằng văn bản toàn tập đoàn ABC, hạ bậc thi đua xét thưởng cuối năm.
+
+--------------------------------------------------------------------------------
+
+[MỤC: ĐIỀU KHOẢN THI HÀNH VÀ QUY CHẾ KHEN THƯỞNG]
+ID_CHƯƠNG: CHUONG_05
+Tên chương: CHƯƠNG V: ĐIỀU KHOẢN THI HÀNH
+
+Điều 9: Hiệu lực văn bản và Quy chế Khen thưởng
+- Quy định này có hiệu lực thi hành kể từ ngày ký ban hành cho đến khi có văn bản mới thay thế từ Hội đồng quản trị ABC Group.
+- Quy chế khen thưởng: Những cá nhân, tập thể phòng ban đạt thành tích xuất sắc, vượt chỉ tiêu doanh số và tuân thủ tốt quy trình sẽ được vinh danh tại lễ tổng kết tháng, được thưởng nóng bằng hiện kim, hiện vật (vàng, chuyến du lịch nước ngoài) và ưu tiên xem xét lộ trình thăng tiến lên các cấp quản lý cấp cao của tập đoàn ABC.
+- Toàn thể cán bộ nhân viên thuộc Công ty Cổ phần Tập đoàn Bất động sản ABC có trách nhiệm đọc hiểu, ký cam kết tuân thủ và nghiêm túc thực hiện các điều khoản nêu trên.
+
+================================================================================
+PHÊ DUYỆT CUỐI CÙNG
+Đại diện Khối Kinh doanh: Đã ký cam kết vận hành.
+Chủ tịch Hội đồng Quản trị Công ty ABC: Đã ký ban hành và đóng mộc điện tử.
+================================================================================
