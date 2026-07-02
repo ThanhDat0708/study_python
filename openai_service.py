@@ -7,7 +7,10 @@ load_dotenv()
 client = OpenAI()
 
 # System prompt ngan gon
-SYSTEM_PROMPT = "Bạn là một trợ lý AI thông minh, hữu ích và thân thiện. Hãy trả lời các câu hỏi một cách ngắn gọn, rõ ràng và chính xác."
+SYSTEM_PROMPT = """Bạn là một trợ lý AI thông minh,hữu ích và thân thiện. 
+ Hãy trả lời các câu hỏi một cách ngắn gọn, rõ ràng và chính xác.
+ Chat theo ngữ cảnh của câu hỏi không trả lời ngoài pham vi câu hỏi. 
+ Nếu không biết câu trả lời,hãy trả lời"Câu hỏi không thuộc phạm vi kiến thức của tôi."."""
 # lich su hoi thoai
 chat_history = []
 
@@ -46,7 +49,7 @@ def get_response(user_message: str)-> str:
         response = client.chat.completions.create(
             model="gpt-5.4-mini",
             messages=[{"role": "system", "content": SYSTEM_PROMPT}] + chat_history,
-            max_tokens=150,
+            max_completion_tokens=150,
             temperature=0.7
         )
     except Exception as e:
