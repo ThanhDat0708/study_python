@@ -7,10 +7,10 @@
 # 6. Gửi câu hỏi và các đoạn tìm đến OpenAi Responses API để nhận câu trả lời
 # 7. Trả về câu trả lời cho người dùng và lập lại bước 5-7 cho các câu hỏi tiếp theo. Kết thúc khi người dùng nhạap văn bản rỗng
 
-from loader import txt_loader
-from chunker import chunk_by_token
-from chromaDB_service import add_documents, search
-from openai_service import get_response
+from rag_terminal.loader import txt_loader
+from rag_terminal.chunker import chunk_by_token
+from rag_terminal.chromaDB_service import add_documents, search
+from rag_terminal.openai_service import get_response
 
 COLLECTION_NAME = "noi_quy_abc"
 

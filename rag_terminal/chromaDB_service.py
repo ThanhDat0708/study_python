@@ -1,5 +1,5 @@
 import chromadb
-from openai_service import get_embedding
+from rag_terminal.openai_service import get_embedding
 
 db = chromadb.EphemeralClient()
 
